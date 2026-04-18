@@ -1,0 +1,6 @@
+{
+  "name": "Zip To App",
+  "description": "Upload a source code ZIP, use Gemini to transform it into a fully functional application, and download the result.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
